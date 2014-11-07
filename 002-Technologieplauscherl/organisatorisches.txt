@@ -2,5 +2,5 @@ Datum und Uhrzeit: 13.11.2014, start um 18:30
 Ort: BMD Steyr, Sierninger Straße 190
 Themen: 
 1. onset detection
-2. ?
+2. gamification
 3. ?
