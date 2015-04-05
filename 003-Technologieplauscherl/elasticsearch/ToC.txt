@@ -1,0 +1,4 @@
+- Was ist Elasticsearch?
+- Warum Elasticsearch bzw. Searchengine allgemein?
+- Grundlagen
+- Beispiel
