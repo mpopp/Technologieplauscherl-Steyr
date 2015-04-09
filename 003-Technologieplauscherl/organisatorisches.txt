@@ -1,4 +1,8 @@
 TERMIN: Donnerstag, 16. April, 18:00 Uhr
-ORT: ?
+ 
+ORT: Systema (Pachergasse 4, Steyr) 
+
 VORTRÄGE
+
 - Matthias Popp: Elasticsearch
+- Martin Ankerl: Bitcoins
